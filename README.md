@@ -16,14 +16,13 @@ Below is the list of available notebooks with their current status.
 | 4. | Clustering su tre datasets | [Clustering_aa_25_26.ipynb](./clustering_aa_25_26.ipynb) | ❌ |
 | 5. | K-nn e metric learning | [Classification_iris_knn_aa_25_26.ipynb](./classification_iris_knn_aa_25_26.ipynb) | ❌ |
 
-
 ### Esposito
 
 | Nr. | Topic / Exercise Name | File Link | Status |
 |:---:|:---|:---|:---:|
 | 1. | Model Selection | [02-model-selection-exercises.ipynb](./02-model-selection-exercises.ipynb) | ✅ |
-| 2. | SVM by Hand | [svm_by_hand_exercise.ipynb](./svm_by_hand_exercise.ipynb) | ❌ |
-| 3. | SVMs on 2D Datasets | [svms_on_2d_datasets.ipynb](./svms_on_2d_datasets.ipynb) | ❌ |
-| 4. | SVM Custom Kernel | [svm_custom_kernel.ipynb](./svm_custom_kernel.ipynb) | ❌ |
+| 2. | SVM by Hand | [svm_by_hand_exercise.ipynb](./svm_by_hand_exercise.ipynb) | ✅ |
+| 3. | SVMs on 2D Datasets | [svms_on_2d_datasets.ipynb](./svms_on_2d_datasets.ipynb) | ✅ |
+| 4. | SVM Custom Kernel | [svm_custom_kernel.ipynb](./svm_custom_kernel.ipynb) | ✅ |
 | 5. | AdaBoost | [AdaBoost-exercise.ipynb](./AdaBoost-exercise.ipynb) | ❌ |
 | 6. | Ensemble Learning | [ensemble-learning.ipynb](./ensemble-learning.ipynb) | ❌ |
